@@ -6,20 +6,20 @@ const projects = [
   {
     number: '01',
     name: 'OldReport.in',
-    meta: 'Digital Healthcare Management / Web Application / 2024',
+    meta: 'E-Commerce Platform / Web Application / 2024',
     link: 'https://oldreport.in',
     image:
-      'https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800&q=80',
-    tags: ['React', 'Node.js', 'MongoDB'],
+      'https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&q=80',
+    tags: ['React', 'Go', 'AWS'],
   },
   {
     number: '02',
     name: 'SBM Cargo',
-    meta: 'Logistics & Supply Chain / Corporate Site / 2024',
+    meta: 'Dubai-Based Logistics / Corporate Site / 2024',
     link: 'https://sbmcargoservices.com',
     image:
-      'https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=800&q=80',
-    tags: ['Next.js', 'Tailwind', 'Vercel'],
+      'https://images.unsplash.com/photo-1578575437130-527eed3abbec?w=800&q=80',
+    tags: ['React'],
   },
   {
     number: '03',
