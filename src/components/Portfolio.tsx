@@ -7,7 +7,7 @@ const projects = [
     number: '01',
     name: 'OldReport.in',
     meta: 'E-Commerce Platform / Web Application / 2024',
-    link: 'https://oldreport.in',
+    link: 'https://oldreport.in/',
     image:
       'https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&q=80',
     tags: ['React', 'Go', 'AWS'],
@@ -16,7 +16,7 @@ const projects = [
     number: '02',
     name: 'SBM Cargo',
     meta: 'Dubai-Based Logistics / Corporate Site / 2024',
-    link: 'https://sbmcargoservices.com',
+    link: 'https://sbmcargoservices.com/',
     image:
       'https://images.unsplash.com/photo-1578575437130-527eed3abbec?w=800&q=80',
     tags: ['React'],
